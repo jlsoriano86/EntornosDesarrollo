@@ -1,5 +1,6 @@
 package PaqueteGitHub;
 
-public class Clase2GitHub {
-
+public class Clase2GitHub 
+{
+	private String Modificacion;
 }
